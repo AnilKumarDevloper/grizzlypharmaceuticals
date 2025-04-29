@@ -1,0 +1,55 @@
+{
+  "InjectableProduct": [
+    {
+      "id": "Ip1",
+      "name": "Boldenone Undecylenate",
+      "description": "Boldenone Undecylenate, often known by its trade name Equipoise®, is an anabolic androgenic steroid derived from testosterone. It enhances protein synthesis, nitrogen retention, and red blood cell count, improving muscle growth, repair, endurance, and oxygenation during intense workouts.",
+      "imageUrl": "https://germanpeptides.com/wp-content/uploads/2025/01/imh_3.webp",
+      "altText": "Boldenone Undecylenate",
+      "slug": "boldenone-undecylenate",
+      "concentration": "250mg/mL",
+      "vial_size": "10mL",
+      "key_features_heading": "Key Features:",
+      "key_features": {
+        "boldenone_undecylenate": "<b>Boldenone Undecylenate:</b> Each vial provides a pharmaceutical-grade dose of 250mg/mL, ensuring purity and potency.",
+        "muscle_growth": "<b>Muscle Growth:</b> Ideal for individuals aiming to build substantial and well-defined muscle mass.",
+        "enhanced_endurance": "<b>Enhanced Endurance:</b> Supports improved stamina and oxygen delivery during training.",
+        "dosage": "<b>Dosage:</b> Typically ranges from 250–800mg per week in bodybuilding. Higher dosages may increase the risk of side effects."
+      },
+      "administration": "Administer via intramuscular injection. Consult a healthcare professional for proper dosing based on individual goals and experience.",
+      "potential_side_effects": "Potential side effects may include water retention, mood changes, or temporary suppression of natural testosterone production. Regular monitoring is advised.",
+      "quantity": "10mL multi-dose vial, ensuring an extended supply for continuous use.",
+      "source": "Manufactured by <b>Grizzly Pharmaceuticals</b>, adhering to strict pharmaceutical standards and undergoing rigorous third-party testing for maximum purity and effectiveness.",
+      "post_cycle_therapy": "Post cycle therapy (PCT) is a protocol followed after completing a cycle of anabolic steroids to support natural hormonal balance.",
+      "legal_disclaimer": "This product is intended for research and educational purposes only. The customer assumes full responsibility for proper handling and application."
+    },
+    {
+      "id": "Ip2",
+      "name": "Masteron Propionate",
+      "description": "Masteron Propionate, also known as Drostanolone Propionate or Masteron Propionate 100. Masteron Propionate is one of the most popular anabolic steroids available due to its powerful cutting abilities. If you have a low body fat percentage, Masteron can give your muscles a dry, grainy, and hard look. In addition, it does not aromatize, and in fact, one of its metabolites works as a",
+      "imageUrl": "https://germanpeptides.com/wp-content/uploads/2025/01/masteron.webp",
+      "altText": "Masteron Propionate",
+      "slug": "masteron-propionate",
+      "concentration": "100mg/mL",
+      "vial_size": "10mL",
+      "administration": "Since Masteron Propionate 100 is a product that stays in the body for a very short time, it is usually injected every 2 days at the rate of 100 mg for men. For women, the 100 mg injection is usually done every 4 days",
+      "quantity": "10mL multi-dose vial, ensuring an extended supply for continuous use.",
+      "source": "Manufactured by <b>Grizzly Pharmaceuticals</b>, adhering to strict pharmaceutical standards and undergoing rigorous third-party testing for maximum purity and effectiveness.",
+      "post_cycle_therapy": "Post cycle therapy (PCT) is essential after using Masteron to restore natural hormonal balance.",
+      "legal_disclaimer": "This product is intended for research and educational purposes only. The customer assumes full responsibility for proper handling and application."
+    }
+  ],
+  
+  "about": {
+    "heading": "About Our Company",
+    "metaDescription": "Learn more about our team and mission.",
+    "metaTitle": "About Us"
+  },
+  
+  "home": {
+    "metaTitle": "Home - My Shop",
+    "metaDescription": "Welcome to our online store.",
+    "heading": "Welcome to My Shop",
+    "heroText": "Discover amazing products!"
+  }
+}

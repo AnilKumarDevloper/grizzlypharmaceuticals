@@ -1,0 +1,92 @@
+
+
+.footerlogo{
+     max-width: 70px;
+    border-radius: 10px;
+}
+.footerlgrizzlylogo{
+    /* max-width: 50px; */
+}
+.contactsIcons{
+    font-size: 20px;
+}
+.footerAdd{
+    font-size: 15px;
+    font-weight: 500;
+    padding: 3px 5px; 
+}
+.footerLink {
+    position: relative;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 5px 3px; 
+    color: rgb(255 255 255);
+    text-decoration: none;
+    border-bottom: 2px solid rgb(0 0 0); /* optional static border */
+    display: inline-block;
+}
+
+.footerLink::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    width: 0;
+    background-color: rgb(189, 193, 198) !important;
+    transition: width 0.3s ease-in-out;
+    color: rgb(189, 193, 198) !important;
+}
+
+.footerLink:hover::after {
+    width: 100%;
+}
+
+.fixdWidth{
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.linkHeading{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.emailInput{
+    padding: 5px 10px;
+    color: rgb(0 0 0);
+    outline: none;
+    border: 1px solid rgb(255 255 255);
+    font-size: 15px;
+    font-weight: 500;
+    width: 100%;
+}
+
+.footersubmitBtn{
+    margin-top: 2rem;
+    border: none;
+    outline: none;
+    padding: 6px 10px;
+    color: rgb(255 255 255);
+    font-weight: 500;
+    border: 1px solid rgb(255 255 255);
+    background: transparent;
+}
+
+.paddingFooter{
+    margin-top: 0rem;
+    padding: 10px;
+}
+
+.socilLink span{
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255 255 255 / 10%);
+    color: var(--text-color);
+ 
+}

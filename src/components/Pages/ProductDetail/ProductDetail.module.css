@@ -1,0 +1,31 @@
+
+.productImgae{
+    padding: 30px 10%;
+}
+
+.textDetails{
+    padding: 30px;
+}
+.textDetails li{
+    font-size: 14px;
+    color: #a9a9a9;
+    font-family: "Muli", sans-serif;
+    font-weight: 500;
+}
+.product_detailText{
+    font-size: 17px;
+}
+
+.discriptionsAll{
+    max-width: 1000px;
+    margin: 0 auto;
+    /* padding: 40px 4%;
+    border: 1px solid #9e9b9b; */
+}
+
+.accordions button{
+    background: black !important;
+    color: var(--text-color);
+    font-weight: 600;
+} 
+ 
